@@ -1,0 +1,5 @@
+id,nome,sobrenome,numero,email,numero_cartao,limite_cartao
+1,Ana,Silva,11987654321,ana.silva@email.com,4539 1488 0343 6467,5000
+2,Bruno,Souza,21999887766,bruno.souza@email.com,4716 4800 1234 5678,3500
+3,Carlos,Oliveira,31988776655,carlos.oliveira@email.com,4000 1234 5678 9010,4200
+
